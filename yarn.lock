@@ -199,11 +199,9 @@ eslint-config-airbnb-base@^13.1.0:
     object.assign "^4.1.0"
     object.entries "^1.0.4"
 
-eslint-config-prettier@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-3.1.0.tgz#2c26d2cdcfa3a05f0642cd7e6e4ef3316cdabfa2"
-  dependencies:
-    get-stdin "^6.0.0"
+eslint-config-prettier@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-7.1.0.tgz#5402eb559aa94b894effd6bddfa0b1ca051c858f"
 
 eslint-import-resolver-node@^0.3.1:
   version "0.3.1"
@@ -289,10 +287,6 @@ find-up@^2.0.0:
 function-bind@^1.0.2, function-bind@^1.1.0, function-bind@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
-
-get-stdin@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/get-stdin/-/get-stdin-6.0.0.tgz#9e09bf712b360ab9225e812048f71fde9c89657b"
 
 globals@^11.1.0:
   version "11.7.0"
